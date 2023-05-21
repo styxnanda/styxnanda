@@ -17,15 +17,15 @@ My interest in the field includes:
 | Platform            | Contact                                       |
 | ------------------- | --------------------------------------------- |
 | Email               | satyaananda65@gmail.com                       |
-| Instagram           | [@satyaand](instagram.com/satyaand)           |
-| GitHub Professional | [@satyaand](github.com/satyaand)              |
+| Instagram           | [@satyaand](https://instagram.com/satyaand)           |
+| GitHub Professional | [@satyaand](https://github.com/satyaand)              |
 | YouTube             | [Satya Ananda](https://www.youtube.com/@satyaand) |
 
 ---
 
 ## **Notable Projects**
 
-- [Android Hotel Booking App using Java, REST, Gradle][link1pj]
+- [*Android Hotel Booking App* using Java, REST, Gradle][link1pj]
 - [*Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan* using C, OpenMP][link2pj]
 - [*ATM Machine on FPGA* using VHDL][link3pj]
 - [*Simple Clinic Reservation* using C][link4pj]
