@@ -1,32 +1,46 @@
-# Satya Ananda
-
-<p align=center>
+<p align="center">
   <img src="https://github.com/styxnanda/styxnanda/assets/109936851/03f53cfa-21d5-44a0-9063-fd00ac3dcd33" alt="SpotifyHeader">
 </p>
 
-## **About Me!**
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,androidstudio,arduino,css,express,figma,github,gradle,html,idea,java,js,linux,mongodb,nodejs,octave,postgres,py,react,sass,unity,vite" height="70"/>
+</a>
+</p>
 
-My name is Satya Ananda, born at Jakarta in December 2002. I'm studying Computer Engineering @ Universitas Indonesia (2nd year). My passion in programming rose when I was a 2nd year student at my public high school. I was chosen-and-classified to be one of the school's representatives for the National Science Olympiad (OSN/KSN, known natively) in the field of Informatics. **This is my personal GitHub account.**
+<h1 align="center" font-size=>
+<strong>About Me!</strong>
+</h1>
+
+My name is Satya Ananda, born at Jakarta in December 2002. I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.**
 
 My interest in the field currently lies in:
 
 - Web/Software Development
 - Games Modding/Reverse Engineering
 
----
+<h1 align="center" font-size=>
+<strong>Reach Me!</strong>
+</h1>
+<p align=center>
+<a href="mailto:satyaananda65@gmail.com">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" height=40 alt="Gmail"/>
+</a>
+<a href="https://instagram.com/satyaand">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" height=40 alt="Instagram"/>
+</a>
+<a href="https://github.com/satyaand">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height=40 alt="GitHub PRO"/>
+</a>
+<a href="https://www.youtube.com/@satyaand">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true" height=40 alt="YouTube"/>
+</a>
+<a href="https://steamcommunity.com/id/satyaand/">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true" height=40 alt="Steam"/>
+</a>
+</p>
 
-### **Reach Me!**
-
-| Platform            | Contact                                           |
-| ------------------- | ------------------------------------------------- |
-| Email               | satyaananda65@gmail.com                           |
-| Instagram           | [@satyaand](https://instagram.com/satyaand)       |
-| GitHub Professional | [@satyaand](https://github.com/satyaand)          |
-| YouTube             | [Satya Ananda](https://www.youtube.com/@satyaand) |
-
----
-
-## **Notable Projects**
+<h1 align=center><strong>Notable Projects</strong></h1>
 
 - [_Fan Works / Fan-Fiction Archival Website_ using PostgreSQL, Express, React, Node JS][link1pj]
 - [_Android Hotel Booking App_ using Java, REST, Gradle][link2pj]
@@ -44,6 +58,26 @@ My interest in the field currently lies in:
 
 ## **Education History**
 
+<p align=center>
+<a href="https://globalprestasi.sch.id/">
+<img src="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/956e74c47eb1bbae855d5575de67d698.png" height=40 alt="Global Prestasi Junior High School">
+</a>
+<a>
+<img src="https://www.freeiconspng.com/thumbs/blue-arrow-png/blue-arrow-png-22.png" height=40 alt="Arrow To">
+</a>
+<a href="https://sman5kotabekasi.sch.id/">
+<img src="https://sman5kotabekasi.sch.id/wp-content/uploads/2022/04/logo-light.png" height=40 alt="SMA Negeri 5 Kota Bekasi">
+</a>
+<a>
+<img src="https://www.freeiconspng.com/thumbs/blue-arrow-png/blue-arrow-png-22.png" height=40 alt="Arrow To">
+</a>
+<a href="https://eng.ui.ac.id/en/">
+<img src="https://giving.eng.ui.ac.id/static/img/logo-ftui.png" height=40 alt="Faculty of Engineering Universitas Indonesia">
+</a>
+</p>
+<details>
+<summary>Milestones</summary>
+
 - **SMP Global Prestasi School**  
   _Global Prestasi JHS, 2015-2018_
 
@@ -59,11 +93,10 @@ My interest in the field currently lies in:
 ---
 
 - **Bachelor's Degree in Computer Engineering**  
-  _Universitas Indonesia, 2021-Ongoing_
+   _Universitas Indonesia, 2021-Ongoing_
 
   Currently studying.
-
----
+  </details>
 
 ## **Side-Project as a Musician**
 
