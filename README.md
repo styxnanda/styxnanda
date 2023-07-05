@@ -5,36 +5,39 @@
 </p>
 
 ## **About Me!**
+
 My name is Satya Ananda, born at Jakarta in December 2002. I'm studying Computer Engineering @ Universitas Indonesia (2nd year). My passion in programming rose when I was a 2nd year student at my public high school. I was chosen-and-classified to be one of the school's representatives for the National Science Olympiad (OSN/KSN, known natively) in the field of Informatics. **This is my personal GitHub account.**
 
-My interest in the field includes:
-- Game Development
-- Reverse Engineering
-- Software Development
+My interest in the field currently lies in:
+
+- Web/Software Development
+- Games Modding/Reverse Engineering
 
 ---
+
 ### **Reach Me!**
-| Platform            | Contact                                       |
-| ------------------- | --------------------------------------------- |
-| Email               | satyaananda65@gmail.com                       |
-| Instagram           | [@satyaand](https://instagram.com/satyaand)           |
-| GitHub Professional | [@satyaand](https://github.com/satyaand)              |
+
+| Platform            | Contact                                           |
+| ------------------- | ------------------------------------------------- |
+| Email               | satyaananda65@gmail.com                           |
+| Instagram           | [@satyaand](https://instagram.com/satyaand)       |
+| GitHub Professional | [@satyaand](https://github.com/satyaand)          |
 | YouTube             | [Satya Ananda](https://www.youtube.com/@satyaand) |
 
 ---
 
 ## **Notable Projects**
 
-- [*Fan Works / Fan-Fiction Archival Website* using PostgreSQL, Express, React, Node JS][link1pj]
-- [*Android Hotel Booking App* using Java, REST, Gradle][link2pj]
-- [*Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan* using C, OpenMP][link3pj]
-- [*ATM Machine on FPGA* using VHDL][link4pj]
-- [*Simple Clinic Reservation* using C][link5pj]
+- [_Fan Works / Fan-Fiction Archival Website_ using PostgreSQL, Express, React, Node JS][link1pj]
+- [_Android Hotel Booking App_ using Java, REST, Gradle][link2pj]
+- [_Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan_ using C, OpenMP][link3pj]
+- [_ATM Machine on FPGA_ using VHDL][link4pj]
+- [_Simple Clinic Reservation_ using C][link5pj]
 
 [link5pj]: https://github.com/styxnanda/reservasi-makara
 [link3pj]: https://github.com/styxnanda/multi-thread-RREF
 [link2pj]: https://github.com/satyaand/jsleep-android
-[link4pj]: https://github.com/satyaand/atm-machine-vhdl 
+[link4pj]: https://github.com/satyaand/atm-machine-vhdl
 [link1pj]: https://github.com/SistemBasisData2023/fanhive
 
 ---
@@ -42,21 +45,21 @@ My interest in the field includes:
 ## **Education History**
 
 - **SMP Global Prestasi School**  
-  *Global Prestasi JHS, 2015-2018*
+  _Global Prestasi JHS, 2015-2018_
 
-  Graduated as the batch's third highest scorer in National Exam (UN). 
+  Graduated as the batch's third highest scorer in National Exam (UN).
 
 ---
 
 - **SMA Negeri 5 Kota Bekasi Science Major**  
-  *SMA Negeri 5 Kota Bekasi, 2018-2021*
+  _SMA Negeri 5 Kota Bekasi, 2018-2021_
 
   KSN-K Contestant in Informatics.
 
 ---
 
 - **Bachelor's Degree in Computer Engineering**  
-  *Universitas Indonesia, 2021-Ongoing*
+  _Universitas Indonesia, 2021-Ongoing_
 
   Currently studying.
 
@@ -65,7 +68,7 @@ My interest in the field includes:
 ## **Side-Project as a Musician**
 
 - **Satya Ananda**  
-  *2022-Present*
+  _2022-Present_
 
   <p align=center>
     <img width="420" height="300" src="https://github.com/styxnanda/styxnanda/assets/109936851/fc78cda2-f673-4e94-a42f-674c640fe0a4" alt="Satya Ananda">
@@ -78,8 +81,8 @@ My interest in the field includes:
 ---
 
 - **Gene Parade**  
-  *2022-Present*
-  
+  _2022-Present_
+
   <p align=center>
     <img width="420" height="300" src="https://github.com/styxnanda/styxnanda/assets/109936851/5e18fe48-f3b5-4ae1-bb06-a6c8310456d7" alt="Gene Parade">
   </p>
