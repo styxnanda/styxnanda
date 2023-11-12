@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/styxnanda/styxnanda/assets/109936851/03f53cfa-21d5-44a0-9063-fd00ac3dcd33" alt="SpotifyHeader">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109936851/282304052-ff560b7d-a293-49fe-9b20-a75ba4ace710.png" alt="Profile Header">
 </p>
 
 <p align="center">
@@ -16,8 +16,9 @@ My name is Satya Ananda, born at Jakarta in December 2002. I'm studying Computer
 
 My interest in the field currently lies in:
 
-- Web/Software Development
-- Games Modding/Reverse Engineering
+- Web/Software Development/Engineering
+- Games Development/Modding/Reverse Engineering
+- Big Data Technology
 
 <h1 align="center" font-size=>
 <strong>Reach Me!</strong>
