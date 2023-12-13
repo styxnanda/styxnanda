@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,express,figma,flutter,git,github,gradle,html,idea,java,js,linux,mongodb,mysql,nodejs,octave,postgres,postman,py,react,sass&perline=5" height="240"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,express,figma,flutter,git,github,gradle,html,idea,java,js,linux,mongodb,mysql,nodejs,octave,postgres,postman,py,react,sass&perline=10" height="110"/>
 </a>
 </p>
 
