@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109936851/282304052-ff560b7d-a293-49fe-9b20-a75ba4ace710.png" alt="Profile Header">
+  <img src="https://github.com/styxnanda/styxnanda/assets/109936851/612262cb-633f-46e8-8bba-1a8d85bfb3fa" alt="Profile Header">
 </p>
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,androidstudio,arduino,css,express,figma,github,gradle,html,idea,java,js,linux,mongodb,nodejs,octave,postgres,py,react,sass,unity,vite" height="70"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,express,figma,flutter,git,github,gradle,html,idea,java,js,linux,mongodb,mysql,nodejs,octave,postgres,postman,py,react,sass&perline=5" height="240"/>
 </a>
 </p>
 
@@ -12,19 +12,19 @@
 <strong>About Me!</strong>
 </h1>
 
-My name is Satya Ananda, born at Jakarta in December 2002. I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.**
+My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.**
 
 My interest in the field currently lies in:
 
 - Web/Software Development/Engineering
-- Games Development/Modding/Reverse Engineering
+- Video Game Development using Unreal Engine 5
 - Big Data Technology
 
 <h1 align="center" font-size=>
 <strong>Reach Me!</strong>
 </h1>
 <p align=center>
-<a href="mailto:satyaananda65@gmail.com">
+<a href="mailto:dev@satyaand.com">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" height=40 alt="Gmail"/>
 </a>
 <a href="https://instagram.com/satyaand">
@@ -43,13 +43,15 @@ My interest in the field currently lies in:
 
 <h1 align=center><strong>Notable Projects</strong></h1>
 
-- [_Fan Works / Fan-Fiction Archival Website_ using PostgreSQL, Express, React, Node JS][link1pj]
-- [_Android Hotel Booking App_ using Java, REST, Gradle][link2pj]
-- [_Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan_ using C, OpenMP][link3pj]
-- [_ATM Machine on FPGA_ using VHDL][link4pj]
-- [_Simple Clinic Reservation_ using C][link5pj]
+- [_**DanceRTOS**_, an IoT-based attendance system using ESP32, RFC522, FreeRTOS, Flutter, NestJS][link6pj]
+- [_**FanHive**_, Fan Works / Fan-Fiction Archival Website using PostgreSQL, Express, React, Node JS][link1pj]
+- [_**CaLTerra**_, a personal carbon footprint calculator mobile app made using Flutter, PostgreSQL, Vercel, Node JS][link5pj]
+- [_**Android Hotel Booking App**_, made using Java, REST, Gradle][link2pj]
+- [_**Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan**_, made using C and OpenMP][link3pj]
+- [_**ATM Machine on FPGA**_, made using VHDL][link4pj]
 
-[link5pj]: https://github.com/styxnanda/reservasi-makara
+[link6pj]: https://github.com/styxnanda/DanceRTOS-ESP32
+[link5pj]: https://github.com/styxnanda/CalTerra
 [link3pj]: https://github.com/styxnanda/multi-thread-RREF
 [link2pj]: https://github.com/satyaand/jsleep-android
 [link4pj]: https://github.com/satyaand/atm-machine-vhdl
