@@ -98,11 +98,11 @@ My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indones
 
 ## :guitar: **Side-Project as a Musician**
 
-<div style="display: flex; justify-content: space-between; align-items: center">
+<p align=center>
     <a href="https://open.spotify.com/artist/7tEWRJgUm1A0NVQJTScetc?si=ovdTNtvWQKWKZrZEy5zJYQ" target="_blank">
-        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/8944e572-8dc3-4311-bd32-4808a1133838" alt="Satya Ananda Music Card" style="width: 45%; margin-right: 10px;">
+        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/8944e572-8dc3-4311-bd32-4808a1133838" alt="Satya Ananda Music Card" style="">
     </a>
     <a href="https://open.spotify.com/artist/5InC2H2hzgCSnR3fzR0Cme?si=HdaDI5k8TfmbQVQc3ng6lA" target="_blank">
-        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/c4a1acc4-76aa-4677-a835-907a75398a3d" alt="Gene Parade Music Card" style="width: 45%;">
+        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/c4a1acc4-76aa-4677-a835-907a75398a3d" alt="Gene Parade Music Card" style="">
     </a>
-</div>
+</p>
