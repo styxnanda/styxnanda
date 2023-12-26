@@ -98,28 +98,11 @@ My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indones
 
 ## :guitar: **Side-Project as a Musician**
 
-- **Satya Ananda**  
-  _2022-Present_
-
-  <p align=center>
-    <img width="420" height="300" src="https://github.com/styxnanda/styxnanda/assets/109936851/fc78cda2-f673-4e94-a42f-674c640fe0a4" alt="Satya Ananda">
-  </p>
-
-  This is my solo act, mainly focuses on personal songs, ballad-like. Check my Spotify artist page: [Satya Ananda][spotifypage_sty]
-
-  [spotifypage_sty]: https://open.spotify.com/artist/7tEWRJgUm1A0NVQJTScetc?si=378ca4ade7534dba
-
----
-
-- **Gene Parade**  
-  _2022-Present_
-
-  <p align=center>
-    <img width="420" height="300" src="https://github.com/styxnanda/styxnanda/assets/109936851/5e18fe48-f3b5-4ae1-bb06-a6c8310456d7" alt="Gene Parade">
-  </p>
-
-  This is my solo-band project, donning experimental/abstract themes, progressive-like, hard rock, psychedelic-like. Check the band's Spotify artist page: [Gene Parade][spotifypage_gp]
-
-  [spotifypage_gp]: https://open.spotify.com/artist/5InC2H2hzgCSnR3fzR0Cme?si=c6902356f405468b
-
----
+<div style="display: flex; justify-content: space-between; align-items: center">
+    <a href="https://open.spotify.com/artist/7tEWRJgUm1A0NVQJTScetc?si=ovdTNtvWQKWKZrZEy5zJYQ" target="_blank">
+        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/8944e572-8dc3-4311-bd32-4808a1133838" alt="Satya Ananda Music Card" style="width: 45%; margin-right: 10px;">
+    </a>
+    <a href="https://open.spotify.com/artist/5InC2H2hzgCSnR3fzR0Cme?si=HdaDI5k8TfmbQVQc3ng6lA" target="_blank">
+        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/c4a1acc4-76aa-4677-a835-907a75398a3d" alt="Gene Parade Music Card" style="width: 45%;">
+    </a>
+</div>
