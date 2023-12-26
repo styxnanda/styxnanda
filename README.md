@@ -1,3 +1,10 @@
+![satyaand (1111 x 500 px)](https://github.com/styxnanda/styxnanda/assets/109936851/7f6f8c77-3d17-4757-9133-6a2f67331635)
+
+<h1 align="center" font-size=>
+<strong>About Me!</strong>
+</h1>
+
+My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.**
 <p align="center">
   <img src="https://github.com/styxnanda/styxnanda/assets/109936851/612262cb-633f-46e8-8bba-1a8d85bfb3fa" alt="Profile Header">
 </p>
@@ -7,18 +14,6 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,express,figma,flutter,git,github,gradle,html,idea,java,js,linux,mongodb,mysql,nodejs,octave,postgres,postman,py,react,sass&perline=10" height="110"/>
 </a>
 </p>
-
-<h1 align="center" font-size=>
-<strong>About Me!</strong>
-</h1>
-
-My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.**
-
-My interest in the field currently lies in:
-
-- Web/Software Development/Engineering
-- Video Game Development using Unreal Engine 5
-- Big Data Technology
 
 <h1 align="center" font-size=>
 <strong>Reach Me!</strong>
@@ -45,7 +40,7 @@ My interest in the field currently lies in:
 
 - [_**DanceRTOS**_, an IoT-based attendance system using ESP32, RFC522, FreeRTOS, Flutter, NestJS][link6pj]
 - [_**FanHive**_, Fan Works / Fan-Fiction Archival Website using PostgreSQL, Express, React, Node JS][link1pj]
-- [_**CaLTerra**_, a personal carbon footprint calculator mobile app made using Flutter, PostgreSQL, Vercel, Node JS][link5pj]
+- [_**CalTerra**_, a personal carbon footprint calculator mobile app made using Flutter, PostgreSQL, Vercel, Node JS][link5pj]
 - [_**Android Hotel Booking App**_, made using Java, REST, Gradle][link2pj]
 - [_**Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan**_, made using C and OpenMP][link3pj]
 - [_**ATM Machine on FPGA**_, made using VHDL][link4pj]
@@ -59,7 +54,7 @@ My interest in the field currently lies in:
 
 ---
 
-## **Education History**
+## :school: **Education History**
 
 <p align=center>
 <a href="https://globalprestasi.sch.id/">
@@ -101,7 +96,7 @@ My interest in the field currently lies in:
   Currently studying.
   </details>
 
-## **Side-Project as a Musician**
+## :guitar: **Side-Project as a Musician**
 
 - **Satya Ananda**  
   _2022-Present_
