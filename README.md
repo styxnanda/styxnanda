@@ -4,7 +4,7 @@
 <strong>About Me!</strong>
 </h1>
 
-My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.**
+My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.** Currently learning Ruby on Rails, and Microsoft Azure.
 <p align="center">
   <img src="https://github.com/styxnanda/styxnanda/assets/109936851/612262cb-633f-46e8-8bba-1a8d85bfb3fa" alt="Profile Header">
 </p>
