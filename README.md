@@ -1,108 +1,19 @@
-![satyaand (1111 x 500 px)](https://github.com/styxnanda/styxnanda/assets/109936851/7f6f8c77-3d17-4757-9133-6a2f67331635)
+# 💫 About Me:
+👨‍🎓 Final year student in **Computer Engineering** @ **Universitas Indonesia**.
 
-<h1 align="center" font-size=>
-<strong>About Me!</strong>
-</h1>
+🔍 Interests include Software Engineering, Cybersecurity, Big Data, IoT.
 
-My name is Satya Ananda, I'm studying Computer Engineering @ Universitas Indonesia (3rd year). **This is my personal GitHub account.** Currently learning Ruby on Rails, and Microsoft Azure.
-<p align="center">
-  <img src="https://github.com/styxnanda/styxnanda/assets/109936851/612262cb-633f-46e8-8bba-1a8d85bfb3fa" alt="Profile Header">
-</p>
+📂 Currently working on/supervising the FOSS project **[Fangarc (fArc)](https://github.com/orgs/fangarc/repositories)**, the ultimate bookmark manager for fanfictions.
 
-<p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,express,figma,flutter,git,github,gradle,html,idea,java,js,linux,mongodb,mysql,nodejs,octave,postgres,postman,py,react,sass&perline=10" height="110"/>
-</a>
-</p>
 
-<h1 align="center" font-size=>
-<strong>Reach Me!</strong>
-</h1>
-<p align=center>
-<a href="mailto:dev@satyaand.com">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" height=40 alt="Gmail"/>
-</a>
-<a href="https://instagram.com/satyaand">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" height=40 alt="Instagram"/>
-</a>
-<a href="https://github.com/satyaand">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height=40 alt="GitHub PRO"/>
-</a>
-<a href="https://www.youtube.com/@satyaand">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true" height=40 alt="YouTube"/>
-</a>
-<a href="https://steamcommunity.com/id/satyaand/">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true" height=40 alt="Steam"/>
-</a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyaand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyaand) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/covenand) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/garboinspired) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@satyaand) 
 
-<h1 align=center><strong>Notable Projects</strong></h1>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=plastic&logo=Hugo) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=plastic&logo=Jellyfin&logoColor=00A4DC) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=styxnanda&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=styxnanda&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=styxnanda&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- [_**DanceRTOS**_, an IoT-based attendance system using ESP32, RFC522, FreeRTOS, Flutter, NestJS][link6pj]
-- [_**FanHive**_, Fan Works / Fan-Fiction Archival Website using PostgreSQL, Express, React, Node JS][link1pj]
-- [_**CalTerra**_, a personal carbon footprint calculator mobile app made using Flutter, PostgreSQL, Vercel, Node JS][link5pj]
-- [_**Android Hotel Booking App**_, made using Java, REST, Gradle][link2pj]
-- [_**Multithreaded Matrix Reduced Row Echelon Form with Gauss-Jordan**_, made using C and OpenMP][link3pj]
-- [_**ATM Machine on FPGA**_, made using VHDL][link4pj]
-
-[link6pj]: https://github.com/styxnanda/DanceRTOS-ESP32
-[link5pj]: https://github.com/styxnanda/CalTerra
-[link3pj]: https://github.com/styxnanda/multi-thread-RREF
-[link2pj]: https://github.com/satyaand/jsleep-android
-[link4pj]: https://github.com/satyaand/atm-machine-vhdl
-[link1pj]: https://github.com/SistemBasisData2023/fanhive
-
----
-
-## :school: **Education History**
-
-<p align=center>
-<a href="https://globalprestasi.sch.id/">
-<img src="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/956e74c47eb1bbae855d5575de67d698.png" height=40 alt="Global Prestasi Junior High School">
-</a>
-<a>
-<img src="https://www.freeiconspng.com/thumbs/blue-arrow-png/blue-arrow-png-22.png" height=40 alt="Arrow To">
-</a>
-<a href="https://sman5kotabekasi.sch.id/">
-<img src="https://sman5kotabekasi.sch.id/wp-content/uploads/2022/04/logo-light.png" height=40 alt="SMA Negeri 5 Kota Bekasi">
-</a>
-<a>
-<img src="https://www.freeiconspng.com/thumbs/blue-arrow-png/blue-arrow-png-22.png" height=40 alt="Arrow To">
-</a>
-<a href="https://eng.ui.ac.id/en/">
-<img src="https://giving.eng.ui.ac.id/static/img/logo-ftui.png" height=40 alt="Faculty of Engineering Universitas Indonesia">
-</a>
-</p>
-<details>
-<summary>Milestones</summary>
-
-- **SMP Global Prestasi School**  
-  _Global Prestasi JHS, 2015-2018_
-
-  Graduated as the batch's third highest scorer in National Exam (UN).
-
----
-
-- **SMA Negeri 5 Kota Bekasi Science Major**  
-  _SMA Negeri 5 Kota Bekasi, 2018-2021_
-
-  KSN-K Contestant in Informatics.
-
----
-
-- **Bachelor's Degree in Computer Engineering**  
-   _Universitas Indonesia, 2021-Ongoing_
-
-  Currently studying.
-  </details>
-
-## :guitar: **Side-Project as a Musician**
-
-<p align=center>
-    <a href="https://open.spotify.com/artist/7tEWRJgUm1A0NVQJTScetc?si=ovdTNtvWQKWKZrZEy5zJYQ" target="_blank">
-        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/8944e572-8dc3-4311-bd32-4808a1133838" alt="Satya Ananda Music Card" style="">
-    </a>
-    <a href="https://open.spotify.com/artist/5InC2H2hzgCSnR3fzR0Cme?si=HdaDI5k8TfmbQVQc3ng6lA" target="_blank">
-        <img src="https://github.com/styxnanda/styxnanda/assets/109936851/c4a1acc4-76aa-4677-a835-907a75398a3d" alt="Gene Parade Music Card" style="">
-    </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
