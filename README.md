@@ -3,7 +3,7 @@
 
 🔍 Interests include Software Engineering, Cybersecurity, Big Data, IoT.
 
-📂 Founder of FangArc, a developer group dedicated for FOSS fanfiction projects. Currently working on/supervising the project **[Saylune](https://github.com/orgs/fangarc/repositories)**, the ultimate bookmark manager for fanfictions.
+📂 Founder of FangArc, a developer group dedicated for FOSS fanfiction projects. Currently working on/supervising the project **[Sailune](https://github.com/orgs/fangarc/repositories)**, the ultimate bookmark manager for fanfictions.
 
 
 ## 🌐 Socials:
