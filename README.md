@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍🎓 A generalist, connecting questions across different domains to tackle diverse IT challenges.
 
-🔍 Interests include Software Engineering, Cybersecurity, Big Data, IoT.
+🔍 Interests include Software Engineering, Cybersecurity, Big Data, NLP, and SysAdmin.
 
 📂 Founder of Fangarc, a developer group dedicated for FOSS fanfiction projects. Currently working on/supervising the project **[Sailune](https://github.com/orgs/fangarc/repositories)**, the ultimate bookmark manager for fanfictions.
 
